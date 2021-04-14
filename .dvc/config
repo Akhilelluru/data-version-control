@@ -1,0 +1,5 @@
+[core]
+    analytics = false
+    remote = remote_storage
+['remote "remote_storage"']
+    url = /media/akhil-e/e68a38ff-4575-47ef-9d37-5c211de523eb/dvc_example/dvc_remote
